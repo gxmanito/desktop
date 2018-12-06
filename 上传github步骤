@@ -1,0 +1,10 @@
+#①
+git init
+#②
+git add .
+#③
+git commit -m "提交注释"
+#④
+git remote add origin 远程仓库地址
+#⑤
+git push -u origin master
